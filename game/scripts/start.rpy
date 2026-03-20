@@ -20,6 +20,8 @@ label start:
 
     e "Once you add a story, pictures, and music, you can release it to the world!"
 
+    e "Please help to replace the assets!"
+
     # Jump to a label.
 
     jump end
