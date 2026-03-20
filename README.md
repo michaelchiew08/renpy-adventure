@@ -1,24 +1,10 @@
 <p align="center">
-  <img src="web-icon.png" width="250" alt="Ren'Py Template">
+  <img src="web-icon.png" width="250" alt="RenPy Adventure">
 </p>
 
-# Ren'Py Template
+# RenPy Adventure
 
-[![release](https://img.shields.io/github/v/release/remarkablegames/renpy-template)](https://github.com/remarkablegames/renpy-template/releases)
-[![build](https://github.com/remarkablegames/renpy-template/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablegames/renpy-template/actions/workflows/build.yml)
-[![lint](https://github.com/remarkablegames/renpy-template/actions/workflows/lint.yml/badge.svg)](https://github.com/remarkablegames/renpy-template/actions/workflows/lint.yml)
-
-📖 Write visual novels with Ren'Py Template.
-
-Play the game:
-
-- [remarkablegames](https://remarkablegames.org/renpy-template)
-
-Or download:
-
-- [Windows](https://github.com/remarkablegames/renpy-template/releases/latest/download/win.zip)
-- [Mac](https://github.com/remarkablegames/renpy-template/releases/latest/download/mac.zip)
-- [Linux](https://github.com/remarkablegames/renpy-template/releases/latest/download/pc.zip)
+📖 Write visual novels with RenPy Adventure.
 
 ## Credits
 
@@ -55,18 +41,8 @@ renpy --version
 Clone the repository to the `Projects Directory`:
 
 ```sh
-git clone https://github.com/remarkablegames/renpy-template.git
-cd renpy-template
-```
-
-Rename the project:
-
-```sh
-git grep -l "Ren'Py Template" | xargs sed -i '' -e "s/Ren'Py Template/My Novel/g"
-```
-
-```sh
-git grep -l 'renpy-template' | xargs sed -i '' -e 's/renpy-template/my-novel/g'
+git clone https://github.com/michaelchiew08/renpy-adventure.git
+cd renpy-adventure
 ```
 
 Replace the assets:
